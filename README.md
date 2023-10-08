@@ -4,17 +4,17 @@ Script that monitors audio ports and relays audio between a radio transceiver an
 ## Installation
 This expects a fresh install of Ubuntu22.04. XUbuntu was used for testing. Install by typing the following commads. Discord will be installed via snap. 
 
-'''
+```
 sudo apt install git
 git clone https://github.com/HansKillinger/Discord-ROIP
 cd Discord-ROIP
 sh install.sh
-'''
+```
 
 in your text editor, open 'config.py' and edit the sound card devices. These were listed at the end of the install script. They can be shown at any time by typing the following into a terminal. 
-'''
+```
 pactl list sources | grep -e "Name"
-'''
+```
 
 _ RX_ADDRESS will be your audio mic port. This audio comes from the radio. 
 _ TX_ADDRESS will be an output 'monitor'. This will be the output from discord.
