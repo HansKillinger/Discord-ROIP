@@ -22,8 +22,11 @@ pactl list sources | grep -e "Name"
 - TX_THRESHOLD is the level of RMS audio detected required to transmit from Discord to Radio
 - DELAY is the time in milliseconds between polling the audio channels.
 
+## System Setup
+### Power Managment
 From your desktop menu, open your power management.  Disable lock screen on suspend, and disable any settings where power shuts off, or enables sleep or suspend. Turning the display off should be fine.
 
+### Discord
 If you haven't already, create a new Discord account for your ROIP link. Make sure you have auto-login enabled in the Discord app with this account. Discord can be found in the desktop menu. Make the following changes in Discords settings under 'Voice & Video' tab.
 
 1. Set Microphone to audio device coming from Radio. Turn volume to max.
