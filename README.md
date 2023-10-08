@@ -26,15 +26,15 @@ From your desktop menu, open your power management.  Disable lock screen on susp
 
 If you haven't already, create a new Discord account for your ROIP link. Make sure you have auto-login enabled in the Discord app with this account. Discord can be found in the desktop menu. Make the following changes in Discords settings under 'Voice & Video' tab.
 
-- Set Microphone to audio device coming from Radio. Turn volume to max.
-- Set output to audio device going to radio. Turn volume to max.
-- Change Input Mode to Push to Talk
-- Set the PTT key to 'SHIFT' key.
-- Disable Echo Cancellation
-- Set Noise Suppression to Standard or None
+1. Set Microphone to audio device coming from Radio. Turn volume to max.
+2. Set output to audio device going to radio. Turn volume to max.
+3. Change Input Mode to Push to Talk
+4. Set the PTT key to 'SHIFT' key.
+5. Disable Echo Cancellation
+6. Set Noise Suppression to Standard or None
 
 Next goto the 'Notifications' tab.
 
-- Uncheck Enable Desktop Notifications
-- Check Disable All Notification Sounds
+1. Uncheck Enable Desktop Notifications
+2. Check Disable All Notification Sounds
 
