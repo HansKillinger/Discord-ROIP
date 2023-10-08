@@ -27,8 +27,8 @@ pactl list sources | grep -e "Name"
 From your desktop menu, open your power management.  Disable lock screen on suspend, and disable any settings where power shuts off, or enables sleep or suspend. Turning the display off should be fine.
 
 ### Discord
-If you haven't already, create a new Discord account for your ROIP link. Make sure you have auto-login enabled in the Discord app with this account. Discord can be found in the desktop menu. Make the following changes in Discords settings under 'Voice & Video' tab.
-
+If you haven't already, create a new Discord account for your ROIP link. Make sure you have auto-login enabled in the Discord app with this account. Discord can be found in the desktop menu. Make the following changes in Discords settings... 
+> Voice & Video
 1. Set Microphone to audio device coming from Radio. Turn volume to max.
 2. Set output to audio device going to radio. Turn volume to max.
 3. Change Input Mode to Push to Talk
@@ -36,8 +36,7 @@ If you haven't already, create a new Discord account for your ROIP link. Make su
 5. Disable Echo Cancellation
 6. Set Noise Suppression to Standard or None
 
-Next goto the 'Notifications' tab.
-
+> Notifications
 1. Uncheck Enable Desktop Notifications
 2. Check Disable All Notification Sounds
 
