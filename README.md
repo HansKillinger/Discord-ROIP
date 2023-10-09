@@ -39,4 +39,3 @@ If you haven't already, create a new Discord account for your ROIP link. Make su
 > Notifications
 1. Uncheck Enable Desktop Notifications
 2. Check Disable All Notification Sounds
-
